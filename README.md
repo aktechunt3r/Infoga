@@ -1,7 +1,7 @@
 # Raavanan InfoG v1.0
-## Author: github.com/cyberkallan
-## IG: instagram.com/arz_beats
-## YouTube : Cyber kallan
+## Recoded by: github.com/aktechunt3r
+## IG: instagram.com/hunt3r
+## YouTube : https://www.youtube.com/c/AKTECHUNT3r
 ### Don't copy this code without give me the credits, nerd! 
 
 Raavanan.InfoG is a Shellscript to perform Information Gathering 
@@ -26,7 +26,7 @@ Raavanan.InfoG is a Shellscript to perform Information Gathering
 
 ### Usage:
 ```
-git clone https://github.com/cyberkallan/raavanan.infog
+git clone https://github.com/aktechunt3r/Infoga
 cd raavanan.infog
 bash infog.sh
 ```
@@ -37,7 +37,7 @@ bash infog.sh
 apt-get install -y curl nc
 ```
 
-### Donate!
-Support the authors:
+### Support!
+Support my channel for more tools:
 
 <noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
